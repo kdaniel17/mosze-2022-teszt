@@ -22,5 +22,6 @@ int main()
     }
     atlag =atlag / N_ELEMENTS; //csak osztás kell
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << "DRAGONITE" << std::endl;
     return 0;
 }
